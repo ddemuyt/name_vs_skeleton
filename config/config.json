@@ -1,23 +1,25 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "name_vs_skeletondb",
+    "use_env_variable": "JAWSDB_URL",
+    "username": "uaghcow5r9wf5ly1",
+    "password": "rznjsdo71qau2k3p",
+    "database": "zfuddouovxespawr",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "database_test",
+    "use_env_variable": "JAWSDB_URL",
+    "username": "uaghcow5r9wf5ly1",
+    "password": "rznjsdo71qau2k3p",
+    "database": "zfuddouovxespawr",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "use_env_variable": "JAWSDB_URL",
-    "username": "root",
-    "password": null,
-    "database": "name_vs_skeletondb",
+    "username": "uaghcow5r9wf5ly1",
+    "password": "rznjsdo71qau2k3p",
+    "database": "zfuddouovxespawr",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
